@@ -5,3 +5,4 @@ This is not a real Read.md
 
 How can i Sync this know?
 This syncs automaticlly wtf  
+Das kann nachher auf meinem main pc sehen 
